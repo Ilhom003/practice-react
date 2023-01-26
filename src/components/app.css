@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 150px;
+    height: 200px;
+    background-color: rgb(225, 235, 244);
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    display: flex;
+}
+
+.title{
+    margin-top: auto;
+}
+
+img{
+    width: 130px;
+    height: 130px;
+}
